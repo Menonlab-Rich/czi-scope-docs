@@ -37,3 +37,12 @@ Moving forward, the focus will shift to applying these filtering techniques to c
 
 ### Figures
 
+1.
+
+### Supplemental Materials
+
+1. [Static Fluorophore Motor Fourier Filtering](https://drive.google.com/file/d/1xCv-oLMe4eT6Z6xLyMgZx96gHoHd\_zfZ/view?usp=drive\_link)
+2. [Static Fluorophore Motor Time Domain Filtering](https://drive.google.com/file/d/1uxvHh8d-qWqgp1QBlkEwvvioKYLbxYeS/view?usp=drive\_link)
+3. [Static Fluorophore No Motor Fourier Filtering](https://drive.google.com/file/d/1xYYWEpMuNnlyZciSJLmSHi9OEe9BGi2j/view?usp=drive\_link)
+4. [Static Fluorophore No Motor Time Domain Filtering](https://drive.google.com/file/d/1FMwEpPae5Prju19dfxGOdPNKE8M4m7qL/view?usp=drive\_link)
+
