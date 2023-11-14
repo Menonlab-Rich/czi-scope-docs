@@ -27,3 +27,4 @@
 * [Imaging of 625nm Fluorophore with and without DFA Modulation](imaging-of-625nm-fluorophore-with-and-without-dfa-modulation.md)
 * [High-Speed Imaging with Prophesee EVK3: Spatial & Temporal Resolution Insights](high-speed-imaging-with-prophesee-evk3-spatial-and-temporal-resolution-insights.md)
 * [High Speed Brownian Motion Capture using EBIS](high-speed-brownian-motion-capture-using-ebis.md)
+* [Comparative Analysis of Frequency Filtering approaches](comparative-analysis-of-frequency-filtering-approaches.md)
