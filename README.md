@@ -32,7 +32,7 @@
 
 **Left to Right:** Transmittance graph for the optical components, Optical Setup Diagram
 
-![](<.gitbook/assets/image (1).png>)![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (1) (1).png>)![](<.gitbook/assets/image (1).png>)
 
 ### Errata
 

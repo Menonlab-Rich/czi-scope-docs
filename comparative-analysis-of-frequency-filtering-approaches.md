@@ -23,7 +23,7 @@ description: 'Authored: 11/13/2023'
 
 ### Results:
 
-The Fourier analysis identified a dominant frequency range of 300-500Hz, consistent with the vendor's time-domain frequency estimation. However, the Fourier filter approach yielded poorer results compared to the time-domain analysis. When applied to data without the motor, the filtering had little to no effect, confirming the filter's specificity to motor-induced noise. The filtered data from the running motor still showed a significantly stronger signal than the data without the motor.
+The Fourier analysis identified a dominant frequency range of 200-500Hz ([Fig 1](comparative-analysis-of-frequency-filtering-approaches.md#figures)), consistent with the vendor's time-domain frequency estimation. The range of filtered events was chosen to be a high pass filter with a cutoff of 500Hz. This was performed using both approaches, however, the Fourier filter approach yielded poorer results compared to the time-domain analysis. When applied to data without the motor, the filtering had little to no effect, confirming the filter's specificity to motor-induced noise. The filtered data from the running motor still showed a significantly stronger signal than the data without the motor.
 
 ### Discussion:
 
@@ -38,6 +38,8 @@ Moving forward, the focus will shift to applying these filtering techniques to c
 ### Figures
 
 1.
+
+    <figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Fourier Frequency Analysis of Positive Events</p></figcaption></figure>
 
 ### Supplemental Materials
 
