@@ -31,4 +31,9 @@
 
 ## 📚 Works Cited
 
-* [Page 1](works-cited/page-1.md)
+* [Frequency Cam: Imaging Periodic Signals in Real-Time](works-cited/frequency-cam-imaging-periodic-signals-in-real-time.md)
+
+***
+
+* [EventLFM: Event Camera integrated Fourier Light Field Microscopy for Ultrafast 3D imaging](eventlfm-event-camera-integrated-fourier-light-field-microscopy-for-ultrafast-3d-imaging.md)
+* [Sparse-E2VID: A Sparse Convolutional Model for Event-Based Video Reconstruction](sparse-e2vid-a-sparse-convolutional-model-for-event-based-video-reconstruction.md)
