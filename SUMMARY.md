@@ -28,3 +28,7 @@
 * [High-Speed Imaging with Prophesee EVK3: Spatial & Temporal Resolution Insights](high-speed-imaging-with-prophesee-evk3-spatial-and-temporal-resolution-insights.md)
 * [High Speed Brownian Motion Capture using EBIS](high-speed-brownian-motion-capture-using-ebis.md)
 * [Comparative Analysis of Frequency Filtering approaches](comparative-analysis-of-frequency-filtering-approaches.md)
+
+## 📚 Works Cited
+
+* [Page 1](works-cited/page-1.md)
