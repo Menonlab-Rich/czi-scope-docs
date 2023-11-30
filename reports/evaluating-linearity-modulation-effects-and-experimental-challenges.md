@@ -42,17 +42,17 @@ In our future endeavors, it should be considered whether modulated or non-modula
 
 1.
 
-    <figure><img src=".gitbook/assets/image (50).png" alt=""><figcaption><p>Events/Second/Power level</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (50).png" alt=""><figcaption><p>Events/Second/Power level</p></figcaption></figure>
 
 
 2.
 
-    <figure><img src=".gitbook/assets/image (51).png" alt=""><figcaption><p>Unmodulated output from the EBIS (FOV: 100um)</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (51).png" alt=""><figcaption><p>Unmodulated output from the EBIS (FOV: 100um)</p></figcaption></figure>
 
 
 
 ### Supplementary Materials
 
-{% file src=".gitbook/assets/625_fluorophore_unmodulated_30fps.avi" %}
+{% file src="../.gitbook/assets/625_fluorophore_unmodulated_30fps.avi" %}
 Video of EBIS output for the 625nm fluorophore
 {% endfile %}

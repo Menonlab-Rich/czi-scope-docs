@@ -42,25 +42,25 @@ Additionally it is worth trying other forms of encapsulating the fluorophores th
 
 1.
 
-<figure><img src=".gitbook/assets/image (54).png" alt=""><figcaption><p>Brownian motion frame without motor</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption><p>Brownian motion frame without motor</p></figcaption></figure>
 
 2.
 
-<figure><img src=".gitbook/assets/image (55).png" alt=""><figcaption><p>Subsequent frame from fig 1. Negative event circled for clarity</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (55).png" alt=""><figcaption><p>Subsequent frame from fig 1. Negative event circled for clarity</p></figcaption></figure>
 
 3\.
 
-<figure><img src=".gitbook/assets/image (52).png" alt=""><figcaption><p>Brownian motion experiment with motor</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (52).png" alt=""><figcaption><p>Brownian motion experiment with motor</p></figcaption></figure>
 
 4.
 
-<figure><img src=".gitbook/assets/image (53).png" alt=""><figcaption><p>No motor with over accumulation</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (53).png" alt=""><figcaption><p>No motor with over accumulation</p></figcaption></figure>
 
 ### Supplemental Materials
 
 1\.
 
-{% file src=".gitbook/assets/motor_annotated_30fps.mp4" %}
+{% file src="../.gitbook/assets/motor_annotated_30fps.mp4" %}
 30 FPS video visualizing brownian motion
 {% endfile %}
 

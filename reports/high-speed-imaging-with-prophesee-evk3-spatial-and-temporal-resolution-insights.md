@@ -19,7 +19,7 @@ description: Authored 11/01/2023
 5. Locate a single fluorophore in the field of view.
 6. Measure the fluorophore using the full wave at half power method.
 7. Replace the beam splitter to direct light toward the event camera.
-8. Tune the event camera according to the [SOP](guides/understanding-and-tuning-the-prophesee-evk-3-event-camera.md).
+8. Tune the event camera according to the [SOP](../guides/understanding-and-tuning-the-prophesee-evk-3-event-camera.md).
 9. Start the laser modulation at a peak of 5mW and record several oscillations.
 10. Repeat the process with a peak of 8mW.
 11. Load the recordings into Metavision Studio and isolate a single oscillation.
@@ -46,24 +46,24 @@ Overall, the experiment provides valuable insights into the capabilities and lim
 
 ### Supplemental Materials
 
-{% file src=".gitbook/assets/625_fluorophore_modulated_5mw_1000fps_no_dfa.avi" %}
+{% file src="../.gitbook/assets/625_fluorophore_modulated_5mw_1000fps_no_dfa.avi" %}
 
-{% file src=".gitbook/assets/625_fluorophore_modulated_5mw_3000fps_no_dfa.avi" %}
+{% file src="../.gitbook/assets/625_fluorophore_modulated_5mw_3000fps_no_dfa.avi" %}
 
-{% file src=".gitbook/assets/625_fluorophore_modulated_5mw_5000fps_no_dfa.avi" %}
+{% file src="../.gitbook/assets/625_fluorophore_modulated_5mw_5000fps_no_dfa.avi" %}
 
-{% file src=".gitbook/assets/625_fluorophore_modulated_5mw_7000fps_no_dfa.avi" %}
+{% file src="../.gitbook/assets/625_fluorophore_modulated_5mw_7000fps_no_dfa.avi" %}
 
-{% file src=".gitbook/assets/625_fluorophore_modulated_5mw_10000fps_no_dfa.avi" %}
+{% file src="../.gitbook/assets/625_fluorophore_modulated_5mw_10000fps_no_dfa.avi" %}
 
-{% file src=".gitbook/assets/625_fluorophore_modulated_8mw_500fps_no_dfa.avi" %}
+{% file src="../.gitbook/assets/625_fluorophore_modulated_8mw_500fps_no_dfa.avi" %}
 
-{% file src=".gitbook/assets/625_fluorophore_modulated_8mw_1000fps_no_dfa.avi" %}
+{% file src="../.gitbook/assets/625_fluorophore_modulated_8mw_1000fps_no_dfa.avi" %}
 
-{% file src=".gitbook/assets/625_fluorophore_modulated_8mw_3000fps_no_dfa.avi" %}
+{% file src="../.gitbook/assets/625_fluorophore_modulated_8mw_3000fps_no_dfa.avi" %}
 
-{% file src=".gitbook/assets/625_fluorophore_modulated_8mw_5000fps_no_dfa.avi" %}
+{% file src="../.gitbook/assets/625_fluorophore_modulated_8mw_5000fps_no_dfa.avi" %}
 
-{% file src=".gitbook/assets/625_fluorophore_modulated_8mw_7000fps_no_dfa.avi" %}
+{% file src="../.gitbook/assets/625_fluorophore_modulated_8mw_7000fps_no_dfa.avi" %}
 
-{% file src=".gitbook/assets/625_fluorophore_modulated_8mw_10000fps_no_dfa.avi" %}
+{% file src="../.gitbook/assets/625_fluorophore_modulated_8mw_10000fps_no_dfa.avi" %}

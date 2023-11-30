@@ -35,28 +35,28 @@ A test was conducted where a signal was recorded at the off edge of the laser an
 
 Signal, Noise, difference from 2nd experiment
 
-![](<.gitbook/assets/image (28).png>)
+![](<../.gitbook/assets/image (28).png>)
 
 Events vs Power plot from 1st Experiment (Positive and Negative events considered)
 
-![](<.gitbook/assets/image (29).png>)
+![](<../.gitbook/assets/image (29).png>)
 
 Excitation laser visible atop unfocused red fluorophore
 
-![](<.gitbook/assets/image (30).png>)
+![](<../.gitbook/assets/image (30).png>)
 
 Focused cluster of fluorophores used for first experiment
 
-![](<.gitbook/assets/image (31).png>)
+![](<../.gitbook/assets/image (31).png>)
 
 Dichroic Transmission Plot
 
-![](<.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (13).png>)
 
 ### **Attachments**
 
 * Transmission spectra of the dichroic.
 
-{% file src=".gitbook/assets/MD588.xlsx" %}
+{% file src="../.gitbook/assets/MD588.xlsx" %}
 Transmission Spectra
 {% endfile %}

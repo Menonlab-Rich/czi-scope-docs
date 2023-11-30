@@ -6,7 +6,7 @@ description: Authored 11/29
 
 ### Introduction
 
-An attempt at replicating the results of [EventLFM](eventlfm-event-camera-integrated-fourier-light-field-microscopy-for-ultrafast-3d-imaging.md), a paper by Ruipeng Guo. Please be aware that the referenced paper has figures which are reconstructions based on the output from the event sensor, not the event data itself. This is not the case in these results.
+An attempt at replicating the results of [EventLFM](../eventlfm-event-camera-integrated-fourier-light-field-microscopy-for-ultrafast-3d-imaging.md), a paper by Ruipeng Guo. Please be aware that the referenced paper has figures which are reconstructions based on the output from the event sensor, not the event data itself. This is not the case in these results.
 
 ### Key Points
 
@@ -42,13 +42,13 @@ The replicated experiments reinforce the efficacy of the event camera in capturi
 
 1. **Figure 1:** Time Surface Plot of Fluorescent Bead Movement - Illustrating the bead's trajectory along the x-axis.
 
-<figure><img src=".gitbook/assets/recording_2023-11-01_11-02-59_no_dfa_bead_scan_across_x_time_surface.jpg" alt=""><figcaption><p>10k FPS (Warmer colors represents more recent events)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/recording_2023-11-01_11-02-59_no_dfa_bead_scan_across_x_time_surface.jpg" alt=""><figcaption><p>10k FPS (Warmer colors represents more recent events)</p></figcaption></figure>
 
 2. **Figure 2:** Time Surface Plot of Blinking Stationary Fluorophore - Capturing the on-off blinking pattern.
 
-<figure><img src=".gitbook/assets/recording_2023-09-15_11-22-36.raw_0Hz_2000us_acc_time_surface_32649_strobing.jpg" alt=""><figcaption><p>10k FPS</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/recording_2023-09-15_11-22-36.raw_0Hz_2000us_acc_time_surface_32649_strobing.jpg" alt=""><figcaption><p>10k FPS</p></figcaption></figure>
 
 3. **Figure 3:** Linearity Plot of Intensity vs. Excitation Power - Demonstrating the linear relationship between fluorescence intensity and excitation power.
 
-<figure><img src=".gitbook/assets/linearity_power.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/linearity_power.png" alt=""><figcaption></figcaption></figure>
 

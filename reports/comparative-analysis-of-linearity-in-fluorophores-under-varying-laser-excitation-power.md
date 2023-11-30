@@ -43,19 +43,19 @@ In terms of future steps, it may be beneficial to further investigate the reason
 
 1.
 
-    <figure><img src=".gitbook/assets/image (43).png" alt=""><figcaption><p>Events at off impulses vs Power</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Events at off impulses vs Power</p></figcaption></figure>
 
 
 2.
 
-    <figure><img src=".gitbook/assets/image (46).png" alt=""><figcaption><p>Single 605nm bead seen through the EBIS at 8mW excitation power</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>Single 605nm bead seen through the EBIS at 8mW excitation power</p></figcaption></figure>
 
 
 3.
 
-    <figure><img src=".gitbook/assets/image (47).png" alt=""><figcaption><p>Single 625nm bead seen through the EBIS at 8mW excitation power</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (47).png" alt=""><figcaption><p>Single 625nm bead seen through the EBIS at 8mW excitation power</p></figcaption></figure>
 
 
 4.
 
-    <figure><img src=".gitbook/assets/image (48).png" alt=""><figcaption><p>Dichroic Mirror and Excitation Filter spectra</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption><p>Dichroic Mirror and Excitation Filter spectra</p></figcaption></figure>

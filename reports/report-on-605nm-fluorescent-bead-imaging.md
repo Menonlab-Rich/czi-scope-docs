@@ -19,7 +19,7 @@ Fluorescent beads present an opportunity for studying optical properties and ima
 ### Experimental Procedure:
 
 1. **Bead Preparation**: The 605nm fluorescent beads [previously](updates-to-the-linear-test-and-laser-cut-off-tuning-experiment.md) diluted, were further diluted by 2x to enable focusing on an individual bead (See [Figure 1](report-on-605nm-fluorescent-bead-imaging.md#figures)).
-2. **EBIS Tuning**: Parameters of the EBIS were meticulously adjusted according to the [SOP](guides/understanding-and-tuning-the-prophesee-evk-3-event-camera.md). The aim was to isolate the signal from the laser drop-off and minimize noise.
+2. **EBIS Tuning**: Parameters of the EBIS were meticulously adjusted according to the [SOP](../guides/understanding-and-tuning-the-prophesee-evk-3-event-camera.md). The aim was to isolate the signal from the laser drop-off and minimize noise.
 3. **Recording**: A sequence was captured of the laser oscillating between 8mW and 0mW power, completing four cycles. Both positive and negative events were segregated with positive ones being discarded. Without altering the camera tuning settings, the bead was relocated, and the recording procedure was reiterated.
 
 ### Results:
@@ -48,24 +48,24 @@ The process successfully highlighted the capabilities of the EBIS system in imag
 
 1.
 
-    <figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption><p>A single flurophore as seen through the CMOS camera</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption><p>A single flurophore as seen through the CMOS camera</p></figcaption></figure>
 
 
 2.
 
-    <figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption><p>Signal data - First Image pre move</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption><p>Signal data - First Image pre move</p></figcaption></figure>
 
 
 3.
 
-    <figure><img src=".gitbook/assets/image (39).png" alt=""><figcaption><p>Signal data - second image post move</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption><p>Signal data - second image post move</p></figcaption></figure>
 
 
 4.
 
-    <figure><img src=".gitbook/assets/image (40).png" alt=""><figcaption><p>Integrated Frame - First image pre move</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (40).png" alt=""><figcaption><p>Integrated Frame - First image pre move</p></figcaption></figure>
 
 
 5.
 
-    <figure><img src=".gitbook/assets/image (41).png" alt=""><figcaption><p>Integrated Frame - Cropped to the central structure</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (41).png" alt=""><figcaption><p>Integrated Frame - Cropped to the central structure</p></figcaption></figure>

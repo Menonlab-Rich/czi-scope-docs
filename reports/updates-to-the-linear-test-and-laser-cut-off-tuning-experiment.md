@@ -30,7 +30,7 @@ The results from this test align with [prior observations](linear-experiment.md)
 
 For this experiment, the laser was adjusted to 8mW in accordance with the findings from the linear test. A compact cluster of fluorescent beads was visualized through the event camera. It's worth noting that the same set of fluorescent beads was employed for both this and the linearity tests. However there's no stringent need to use the same beads.
 
-The event-based imaging system (EBIS) of the camera was tuned in line with the [standard operating procedure](guides/understanding-and-tuning-the-prophesee-evk-3-event-camera.md) (SOP). The primary focus of this tuning was threefold:
+The event-based imaging system (EBIS) of the camera was tuned in line with the [standard operating procedure](../guides/understanding-and-tuning-the-prophesee-evk-3-event-camera.md) (SOP). The primary focus of this tuning was threefold:
 
 1. Minimize the positive events.
 2. Maximize the event signal on the falling edge of the excitation laser.
@@ -56,10 +56,10 @@ It should also be noted that the tuning experiment used a different set of tunin
 
 ### Figures
 
-1. ![](<.gitbook/assets/image (10).png>)
-2. ![](.gitbook/assets/linear\_test\_2\_603nm.jpg)
-3. ![](<.gitbook/assets/image (9).png>)
+1. ![](<../.gitbook/assets/image (10).png>)
+2. ![](../.gitbook/assets/linear\_test\_2\_603nm.jpg)
+3. ![](<../.gitbook/assets/image (9).png>)
 
 ### Addendums
 
-* 10/4/23: Image 3 was updated to accurately reflect the integrated events from the EBIS. See [EBIS Stuck Pixel](documentation/ebis-stuck-pixel.md) in the documentation for further explanation.
+* 10/4/23: Image 3 was updated to accurately reflect the integrated events from the EBIS. See [EBIS Stuck Pixel](../documentation/ebis-stuck-pixel.md) in the documentation for further explanation.
