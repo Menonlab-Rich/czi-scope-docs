@@ -37,3 +37,4 @@
 
 * [EventLFM: Event Camera integrated Fourier Light Field Microscopy for Ultrafast 3D imaging](eventlfm-event-camera-integrated-fourier-light-field-microscopy-for-ultrafast-3d-imaging.md)
 * [Sparse-E2VID: A Sparse Convolutional Model for Event-Based Video Reconstruction](sparse-e2vid-a-sparse-convolutional-model-for-event-based-video-reconstruction.md)
+* [High-Speed 2D Imaging with Event Cameras: Replication and Analysis of EventLFM paper by Ruipeng Guo](high-speed-2d-imaging-with-event-cameras-replication-and-analysis-of-eventlfm-paper-by-ruipeng-guo.md)
