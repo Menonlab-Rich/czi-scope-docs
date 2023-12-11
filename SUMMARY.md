@@ -12,6 +12,7 @@
 
 ## 🪶 Reports
 
+* [Characterizing Sensor Response and Fluorophore Blinking](reports/characterizing-sensor-response-and-fluorophore-blinking.md)
 * [Analysis of Laser Light Leakage and Its Impact on EBIS Detection: Troubleshooting and Recommendation](reports/analysis-of-laser-light-leakage-and-its-impact-on-ebis-detection-troubleshooting-and-recommendation.md)
 * [Event-Based Imaging: Understanding Unexpected Responses in Microscopy Experiments](reports/event-based-imaging-understanding-unexpected-responses-in-microscopy-experiments.md)
 * [High-Speed 2D Imaging with Event Cameras: Replication and Analysis of EventLFM paper by Ruipeng Guo](reports/high-speed-2d-imaging-with-event-cameras-replication-and-analysis-of-eventlfm-paper-by-ruipeng-guo.md)
