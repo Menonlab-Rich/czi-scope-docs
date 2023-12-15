@@ -24,7 +24,7 @@
 
 5.
 
-    <figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (123).png" alt=""><figcaption></figcaption></figure>
 
 
 6.
@@ -32,7 +32,7 @@
     <figure><img src="../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 7.
 
-    <figure><img src="../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (122).png" alt=""><figcaption></figcaption></figure>
 
 
 8.
