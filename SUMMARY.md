@@ -28,6 +28,7 @@
 * [High Speed Brownian Motion Capture using EBIS](reports/high-speed-brownian-motion-capture-using-ebis.md)
 * [Comparative Analysis of Frequency Filtering approaches](reports/comparative-analysis-of-frequency-filtering-approaches.md)
 * [Comparative Analysis of Event-Driven Sensor Data Visualization](reports/comparative-analysis-of-event-driven-sensor-data-visualization.md)
+* [Laser Characterization WIP](reports/laser-characterization-wip.md)
 
 ## 📚 Works Cited
 
