@@ -29,6 +29,7 @@
 * [Comparative Analysis of Frequency Filtering approaches](reports/comparative-analysis-of-frequency-filtering-approaches.md)
 * [Comparative Analysis of Event-Driven Sensor Data Visualization](reports/comparative-analysis-of-event-driven-sensor-data-visualization.md)
 * [Characterizing parameter effects on EBIS output](reports/characterizing-parameter-effects-on-ebis-output.md)
+* [Page 1](reports/page-1.md)
 
 ## 📚 Works Cited
 
