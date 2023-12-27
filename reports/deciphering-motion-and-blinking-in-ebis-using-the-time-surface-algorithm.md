@@ -24,7 +24,6 @@ The time surface algorithm works by dividing some time span, $$\Delta{t}$$ secon
 1. **Complex Motion Analysis**: The current approach is effective for simple motion patterns. However, complex scenarios with multiple moving objects or varying intensities might require more sophisticated algorithms or additional data processing techniques.
 2. **Algorithm Optimization for Different Scenarios**: Tailoring the time surface algorithm for specific applications, such as biomedical imaging or industrial monitoring, could enhance its effectiveness and broaden its applicability.
 3. **Integration with Machine Learning**: Incorporating machine learning techniques could improve the algorithm's ability to differentiate between motion and blinking, especially in complex and noisy environments.
-4. **Real-Time Processing**: Adapting the algorithm for real-time processing could open up new applications in areas like autonomous vehicles, robotics, and real-time surveillance.
 
 ### **Concluding Remarks**
 
