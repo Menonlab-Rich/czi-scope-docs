@@ -8,6 +8,7 @@
 
 ## 🦮 Guides
 
+* [System Manual for Camera Synchronization and Visualization Tool](guides/system-manual-for-camera-synchronization-and-visualization-tool.md)
 * [Understanding and Tuning the Prophesee EVK-3 Event Camera](guides/understanding-and-tuning-the-prophesee-evk-3-event-camera.md)
 
 ## 🪶 Reports
