@@ -80,3 +80,9 @@ The multi-process architecture was chosen due to the CPU-bound nature of the eve
 ### Conclusion
 
 Maintaining and updating this system requires understanding its architecture, components, and the developmental history behind certain design choices, particularly the shift from a threading to a multi-process approach. Any future modifications should be evaluated in this context to maintain the system's integrity and performance.
+
+
+
+### Diagram
+
+<figure><img src="../.gitbook/assets/software_architecture.svg" alt=""><figcaption></figcaption></figure>
