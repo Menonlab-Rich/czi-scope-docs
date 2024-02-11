@@ -13,6 +13,7 @@
 
 ## 🪶 Reports
 
+* [Detailed Report on CMOS and Event Stream Alignment Challenges](reports/detailed-report-on-cmos-and-event-stream-alignment-challenges.md)
 * [Characterizing Sensor Response and Fluorophore Blinking](reports/characterizing-sensor-response-and-fluorophore-blinking.md)
 * [Analysis of Laser Light Leakage and Its Impact on EBIS Detection: Troubleshooting and Recommendation](reports/analysis-of-laser-light-leakage-and-its-impact-on-ebis-detection-troubleshooting-and-recommendation.md)
 * [Event-Based Imaging: Understanding Unexpected Responses in Microscopy Experiments](reports/event-based-imaging-understanding-unexpected-responses-in-microscopy-experiments.md)
