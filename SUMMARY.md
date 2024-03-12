@@ -33,6 +33,11 @@
 * [Characterizing parameter effects on EBIS output](reports/characterizing-parameter-effects-on-ebis-output.md)
 * [Deciphering Motion and Blinking in EBIS Using the Time Surface Algorithm](reports/deciphering-motion-and-blinking-in-ebis-using-the-time-surface-algorithm.md)
 
+***
+
+* [✔️ Status Updates](status-updates/README.md)
+  * [Status Report 3/12/24](status-updates/status-report-3-12-24.md)
+
 ## 📚 Works Cited
 
 * [Frequency Cam: Imaging Periodic Signals in Real-Time](works-cited/frequency-cam-imaging-periodic-signals-in-real-time.md)
