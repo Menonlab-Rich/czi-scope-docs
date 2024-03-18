@@ -36,6 +36,7 @@
 ***
 
 * [✔️ Status Updates](status-updates/README.md)
+  * [March 15, 2024 Progress Report](status-updates/march-15-2024-progress-report.md)
   * [Status Report 3/12/24](status-updates/status-report-3-12-24.md)
 
 ## 📚 Works Cited
