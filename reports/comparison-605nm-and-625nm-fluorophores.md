@@ -53,27 +53,27 @@ There may be several reasons for the discrepancy of signal intensity between the
 
 1.
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>InSpeck™ Red (580/605) fluorophore (before precise positioning)</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>InSpeck™ Red (580/605) fluorophore (before precise positioning)</p></figcaption></figure>
 
 
 2.
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>FMMG - Magenta fluorophore (positioning grid lines shown)</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>FMMG - Magenta fluorophore (positioning grid lines shown)</p></figcaption></figure>
 
 
 3.
 
-    <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>InSpeck™ Red (580/605) fluorophore - EBIS</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>InSpeck™ Red (580/605) fluorophore - EBIS</p></figcaption></figure>
 
 
 4.
 
-    <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption><p>FMMG - Magenta fluorophore - EBIS</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>FMMG - Magenta fluorophore - EBIS</p></figcaption></figure>
 
 
 5.
 
-    <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>InSpeck™ Red (580/605) Spectra</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>InSpeck™ Red (580/605) Spectra</p></figcaption></figure>
 
 
 6.

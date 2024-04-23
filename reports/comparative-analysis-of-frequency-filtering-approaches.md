@@ -39,7 +39,7 @@ Moving forward, the focus will shift to applying these filtering techniques to c
 
 1.
 
-    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Fourier Frequency Analysis of Positive Events</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Fourier Frequency Analysis of Positive Events</p></figcaption></figure>
 
 ### Supplemental Materials
 
