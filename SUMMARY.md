@@ -13,7 +13,7 @@
 
 ## 🪶 Reports
 
-* [PaReport on Image Segmentation Challenges and Model Evaluation](reports/pareport-on-image-segmentation-challenges-and-model-evaluation.md)
+* [Report on Image Segmentation Challenges and Model Evaluation](reports/report-on-image-segmentation-challenges-and-model-evaluation.md)
 * [Detailed Report on CMOS and Event Stream Alignment Challenges](reports/detailed-report-on-cmos-and-event-stream-alignment-challenges.md)
 * [Characterizing Sensor Response and Fluorophore Blinking](reports/characterizing-sensor-response-and-fluorophore-blinking.md)
 * [Analysis of Laser Light Leakage and Its Impact on EBIS Detection: Troubleshooting and Recommendation](reports/analysis-of-laser-light-leakage-and-its-impact-on-ebis-detection-troubleshooting-and-recommendation.md)
