@@ -13,6 +13,7 @@
 
 ## 🪶 Reports
 
+* [AI-Related Projects Report](reports/ai-related-projects-report.md)
 * [Report on Image Segmentation Challenges and Model Evaluation](reports/report-on-image-segmentation-challenges-and-model-evaluation.md)
 * [Detailed Report on CMOS and Event Stream Alignment Challenges](reports/detailed-report-on-cmos-and-event-stream-alignment-challenges.md)
 * [Characterizing Sensor Response and Fluorophore Blinking](reports/characterizing-sensor-response-and-fluorophore-blinking.md)
